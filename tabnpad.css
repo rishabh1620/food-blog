@@ -1,0 +1,19 @@
+.container{
+    flex-direction: column;
+    margin: 10px 50px;
+
+}
+.box{
+    border-radius: 12px;
+}
+.mainh{
+    font-size: 2rem;
+}
+.mainp{
+    font-size: 1.3rem;
+}
+#sec2{
+    
+    margin-top: 40px;
+    height: auto;
+     }
